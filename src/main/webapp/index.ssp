@@ -1,0 +1,14 @@
+<div class="post">
+<div class="post_title">
+<h1>Welcome to easyScala</h1>
+</div>
+<div class="post_body">
+      <p>
+    <b>easyScala</b> is an implementation of Scalate that supports RestEasy as the default JAX-RS Implementation
+      </p>
+
+    <h3>Standard App</h3>
+    <p>This application is using SSP as the default template engine, adding some javascript components </p>
+
+</div>
+</div>
